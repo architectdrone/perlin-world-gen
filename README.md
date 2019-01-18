@@ -16,5 +16,15 @@ Some features of this world generator are:
   
     Biomes: Precipitation patterns produce noticable coloration in the landscape.
 
+# Dependencies
 
+Pygame is the only dependency.
+
+# Usage
+
+To tinker with world generation, try adjusting the global variables at the top of the worldGen.py .
+
+# Special Thanks
+
+Special thanks to Adrian Biagioli, for writing an incredibly helpful article about Perlin Noise, located here: https://flafla2.github.io/2014/08/09/perlinnoise.html
 
